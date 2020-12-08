@@ -1,0 +1,205 @@
+state,year,count,killed_injured,unemployment
+Alabama,2014,1318,916,6.8
+Alabama,2015,1034,947,6.1
+Alabama,2016,1309,1249,5.8
+Alabama,2017,1461,1400,4.4
+Alaska,2014,146,78,6.9
+Alaska,2015,380,154,6.5
+Alaska,2016,445,191,6.9
+Alaska,2017,317,139,7.0
+Arizona,2014,556,442,6.8
+Arizona,2015,480,408,6.1
+Arizona,2016,554,571,5.4
+Arizona,2017,587,587,4.9
+Arkansas,2014,572,400,6.0
+Arkansas,2015,538,400,5.0
+Arkansas,2016,719,540,4.0
+Arkansas,2017,820,653,3.7
+California,2014,3732,2927,7.5
+California,2015,3234,2821,6.2
+California,2016,3617,3161,5.5
+California,2017,4588,3376,4.8
+Colorado,2014,556,313,5.0
+Colorado,2015,788,458,3.9
+Colorado,2016,812,506,3.2
+Colorado,2017,809,499,2.7
+Connecticut,2014,583,281,6.6
+Connecticut,2015,737,421,5.7
+Connecticut,2016,803,426,5.1
+Connecticut,2017,780,382,4.7
+Delaware,2014,493,231,5.7
+Delaware,2015,366,264,4.9
+Delaware,2016,328,229,4.5
+Delaware,2017,389,297,4.5
+District of Columbia,2014,838,390,7.8
+District of Columbia,2015,538,469,6.9
+District of Columbia,2016,497,445,6.1
+District of Columbia,2017,1142,440,6.1
+Florida,2014,3136,2335,6.3
+Florida,2015,2702,2343,5.5
+Florida,2016,4201,2847,4.8
+Florida,2017,4156,2751,4.2
+Georgia,2014,2032,1339,7.1
+Georgia,2015,2767,1691,6.0
+Georgia,2016,1708,1405,5.4
+Georgia,2017,1994,1715,4.7
+Hawaii,2014,48,21,4.4
+Hawaii,2015,75,39,3.6
+Hawaii,2016,79,51,3.0
+Hawaii,2017,68,28,2.4
+Idaho,2014,115,57,4.8
+Idaho,2015,177,76,4.2
+Idaho,2016,155,78,3.8
+Idaho,2017,163,81,3.2
+Illinois,2014,3095,2913,7.1
+Illinois,2015,3456,3510,6.0
+Illinois,2016,5055,5083,5.8
+Illinois,2017,5089,4588,4.9
+Indiana,2014,1203,930,6.0
+Indiana,2015,1320,1049,4.8
+Indiana,2016,1511,1185,4.4
+Indiana,2017,1483,1144,3.6
+Iowa,2014,568,231,4.2
+Iowa,2015,587,253,3.8
+Iowa,2016,659,264,3.6
+Iowa,2017,586,300,3.1
+Kansas,2014,381,252,4.5
+Kansas,2015,461,317,4.2
+Kansas,2016,572,375,4.0
+Kansas,2017,578,416,3.7
+Kentucky,2014,977,512,6.5
+Kentucky,2015,914,655,5.3
+Kentucky,2016,1021,787,5.1
+Kentucky,2017,1030,791,4.9
+Louisiana,2014,1906,1386,6.4
+Louisiana,2015,1692,1399,6.3
+Louisiana,2016,2070,1630,6.1
+Louisiana,2017,1987,1733,5.1
+Maine,2014,183,47,5.6
+Maine,2015,231,62,4.4
+Maine,2016,232,55,3.8
+Maine,2017,203,69,3.4
+Maryland,2014,1266,896,5.8
+Maryland,2015,1284,1187,5.1
+Maryland,2016,1293,1177,4.5
+Maryland,2017,1579,1335,4.3
+Massachusetts,2014,968,416,5.7
+Massachusetts,2015,1338,491,4.8
+Massachusetts,2016,1544,580,3.9
+Massachusetts,2017,1761,584,3.8
+Michigan,2014,1446,977,7.2
+Michigan,2015,1268,995,5.4
+Michigan,2016,1316,1085,5.0
+Michigan,2017,1360,1140,4.6
+Minnesota,2014,450,279,4.2
+Minnesota,2015,410,278,3.7
+Minnesota,2016,468,325,3.9
+Minnesota,2017,759,397,3.4
+Mississippi,2014,784,548,7.5
+Mississippi,2015,661,557,6.4
+Mississippi,2016,852,787,5.8
+Mississippi,2017,1029,917,5.1
+Missouri,2014,1272,1030,6.1
+Missouri,2015,1702,1413,5.0
+Missouri,2016,1552,1357,4.6
+Missouri,2017,1730,1530,3.8
+Montana,2014,128,62,4.7
+Montana,2015,140,72,4.2
+Montana,2016,162,64,4.1
+Montana,2017,167,74,3.9
+Nebraska,2014,346,197,3.3
+Nebraska,2015,374,236,3.0
+Nebraska,2016,381,219,3.1
+Nebraska,2017,439,199,2.9
+Nevada,2014,376,303,7.9
+Nevada,2015,491,417,6.8
+Nevada,2016,536,491,5.7
+Nevada,2017,437,418,5.1
+New Hampshire,2014,230,60,4.3
+New Hampshire,2015,209,48,3.4
+New Hampshire,2016,272,60,2.9
+New Hampshire,2017,206,53,2.7
+New Jersey,2014,1521,906,6.8
+New Jersey,2015,1062,740,5.8
+New Jersey,2016,1224,951,5.0
+New Jersey,2017,1342,938,4.6
+New Mexico,2014,320,172,6.7
+New Mexico,2015,395,275,6.5
+New Mexico,2016,399,255,6.6
+New Mexico,2017,448,266,5.9
+New York,2014,1903,1362,6.3
+New York,2015,2903,1984,5.3
+New York,2016,2522,1691,4.9
+New York,2017,2031,1439,4.7
+North Carolina,2014,2163,1370,6.3
+North Carolina,2015,1856,1589,5.7
+North Carolina,2016,2101,1781,5.1
+North Carolina,2017,2141,1709,4.5
+North Dakota,2014,110,39,2.7
+North Dakota,2015,149,51,2.8
+North Dakota,2016,150,51,3.1
+North Dakota,2017,133,48,2.7
+Ohio,2014,2368,1614,5.8
+Ohio,2015,2132,1841,4.9
+Ohio,2016,2442,2083,5.0
+Ohio,2017,2701,2217,5.0
+Oklahoma,2014,642,409,4.5
+Oklahoma,2015,840,630,4.4
+Oklahoma,2016,898,657,4.8
+Oklahoma,2017,866,633,4.2
+Oregon,2014,398,222,6.8
+Oregon,2015,686,316,5.6
+Oregon,2016,552,263,4.8
+Oregon,2017,511,269,4.1
+Pennsylvania,2014,2267,1835,5.9
+Pennsylvania,2015,1789,1572,5.3
+Pennsylvania,2016,2185,1776,5.4
+Pennsylvania,2017,2172,1823,4.9
+Rhode Island,2014,189,94,7.7
+Rhode Island,2015,226,101,6.0
+Rhode Island,2016,237,98,5.2
+Rhode Island,2017,191,90,4.4
+South Carolina,2014,1660,970,6.5
+South Carolina,2015,1696,1121,6.0
+South Carolina,2016,1489,1111,5.0
+South Carolina,2017,1721,1186,4.3
+South Dakota,2014,72,36,3.4
+South Dakota,2015,103,53,3.1
+South Dakota,2016,144,55,3.0
+South Dakota,2017,199,40,3.2
+Tennessee,2014,1590,1209,6.6
+Tennessee,2015,1763,1416,5.6
+Tennessee,2016,2014,1633,4.7
+Tennessee,2017,1873,1692,3.8
+Texas,2014,3133,2251,5.1
+Texas,2015,3276,2491,4.4
+Texas,2016,3605,2926,4.6
+Texas,2017,2875,2734,4.3
+Utah,2014,217,131,3.8
+Utah,2015,324,169,3.6
+Utah,2016,250,156,3.4
+Utah,2017,224,180,3.3
+Vermont,2014,170,47,3.9
+Vermont,2015,117,33,3.6
+Vermont,2016,94,23,3.2
+Vermont,2017,71,20,3.0
+Virginia,2014,1273,862,5.2
+Virginia,2015,1326,1099,4.5
+Virginia,2016,1578,1449,4.1
+Virginia,2017,1473,1324,3.7
+Washington,2014,656,417,6.1
+Washington,2015,925,500,5.6
+Washington,2016,768,484,5.3
+Washington,2017,881,582,4.7
+West Virginia,2014,362,189,6.6
+West Virginia,2015,342,217,6.7
+West Virginia,2016,399,274,6.1
+West Virginia,2017,390,237,5.2
+Wisconsin,2014,1065,624,5.4
+Wisconsin,2015,1117,787,4.6
+Wisconsin,2016,859,672,4.0
+Wisconsin,2017,1369,728,3.3
+Wyoming,2014,64,27,4.1
+Wyoming,2015,198,36,4.3
+Wyoming,2016,127,30,5.3
+Wyoming,2017,91,22,4.2
